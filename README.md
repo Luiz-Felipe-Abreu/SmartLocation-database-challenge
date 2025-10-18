@@ -1,4 +1,4 @@
-# Challenge SmartLocation Database 3 & 4
+# Challenge SmartLocation Database 3
 
 ---
 
